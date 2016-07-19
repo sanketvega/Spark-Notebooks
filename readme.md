@@ -3,7 +3,7 @@
 -You can fork the snb notebook and open in your local spark-notebook  OR
 -Fork the generated scala code and execute in Eclipse/IntelliJ
 
-Problem Description:
+<b>Problem Description:</b>
 File Name Description / Schema
 
 movies.dat MovieID – Title – Genres
@@ -16,7 +16,7 @@ README Additonal information / explanation about the above three files
 
 The dataset can be downloaded from the link : http://grouplens.org/datasets/movielens/1m/
 
-You are required to write a code Spark code in scala/python to get results for the
+You are required to write a code <b>Spark code in scala/python </b>to get results for the
 
 following questions,
 
