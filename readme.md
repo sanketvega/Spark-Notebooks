@@ -24,13 +24,9 @@ following questions,
 
 2. Top twenty rated movies (Condition : The movie should be rated/viewed by at least 40 users)
 
-3. Top twenty rated movies (which is calculated in the previous step) with no of views in the
-
-following age group
+3. Top twenty rated movies (which is calculated in the previous step) with no of views in the following age group
 (Age group : 1. Young (<20 years),
-2. Young Adult(20-40 years),
-3.adult (> 40years) )
+             2. Young Adult(20-40 years),
+             3.adult (> 40years) )
 
-4. Top ten critics (Users who have given very low ratings; Condition : The users should have at least
-
-rated 40 movies)
+4. Top ten critics (Users who have given very low ratings; Condition : The users should have at least rated 40 movies)
