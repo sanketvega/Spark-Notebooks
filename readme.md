@@ -1,4 +1,4 @@
-Spark Notebook has solution for the following problem.
+<b>Spark Notebook has solution for the following problem.</b>
 
 -You can fork the snb notebook and open in your local spark-notebook  OR
 -Fork the generated scala code and execute in Eclipse/IntelliJ
